@@ -13,6 +13,7 @@
 		E2D42F101F7059F200CC38B7 /* lab06ios.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E2D42F0E1F7059F200CC38B7 /* lab06ios.xcdatamodeld */; };
 		E2D42F121F7059F200CC38B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2D42F111F7059F200CC38B7 /* Assets.xcassets */; };
 		E2D42F151F7059F200CC38B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2D42F131F7059F200CC38B7 /* LaunchScreen.storyboard */; };
+		E2D42F1D1F70714000CC38B7 /* JuegoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2D42F1C1F70714000CC38B7 /* JuegoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E2D42F111F7059F200CC38B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2D42F141F7059F200CC38B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2D42F161F7059F200CC38B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2D42F1C1F70714000CC38B7 /* JuegoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E2D42F131F7059F200CC38B7 /* LaunchScreen.storyboard */,
 				E2D42F161F7059F200CC38B7 /* Info.plist */,
 				E2D42F0E1F7059F200CC38B7 /* lab06ios.xcdatamodeld */,
+				E2D42F1C1F70714000CC38B7 /* JuegoViewController.swift */,
 			);
 			path = lab06ios;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2D42F101F7059F200CC38B7 /* lab06ios.xcdatamodeld in Sources */,
+				E2D42F1D1F70714000CC38B7 /* JuegoViewController.swift in Sources */,
 				E2D42F0A1F7059F200CC38B7 /* ViewController.swift in Sources */,
 				E2D42F081F7059F200CC38B7 /* AppDelegate.swift in Sources */,
 			);
@@ -306,6 +310,7 @@
 				E2D42F1B1F7059F200CC38B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

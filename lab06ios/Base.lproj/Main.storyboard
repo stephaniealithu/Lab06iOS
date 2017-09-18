@@ -40,7 +40,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="Jey-xx-myj">
                             <color key="tintColor" red="0.34188665810000002" green="0.82296389250000002" blue="0.56510561719999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
-                                <segue destination="cez-1A-XFy" kind="show" id="Kt3-lB-HnQ"/>
+                                <segue destination="cez-1A-XFy" kind="show" identifier="juegoSegue" id="Kt3-lB-HnQ"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
